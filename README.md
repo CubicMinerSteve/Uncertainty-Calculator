@@ -1,0 +1,3 @@
+# 不确定度计算器 - Uncertainty Calculator
+- 以 C 语言编写的计算的，计算物理实验中不确定度的程序……
+- A program written in C, used to calculate uncertainty in physics expriments.
